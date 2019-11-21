@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-21T09:20:46.203Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0" etag="ZY6UMGhTKXwrgVxlqAqw" version="12.2.7" type="github" pages="1">
+<mxfile modified="2019-11-21T09:22:36.892Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Rm_d5NzDwjIqd7L2aene" version="12.2.7" type="github" pages="1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="932" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -156,6 +156,15 @@
         </mxCell>
         <mxCell id="n5c8j3IFLlKjBMmSP-40-11" value="Zenner Connect&lt;br&gt;André Calligaris" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="490" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="n5c8j3IFLlKjBMmSP-40-12" value="&lt;div&gt;LearningCulture&lt;br&gt;&lt;/div&gt;&lt;div&gt;Daniel Meile&lt;/div&gt;&lt;div&gt;Jodok Vieli&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="n5c8j3IFLlKjBMmSP-40-13" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_3eeoUp6OMtoiEWqaUz-1" target="n5c8j3IFLlKjBMmSP-40-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint"/>
+            <mxPoint x="567.5735931288073" y="138.2842712474618" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
