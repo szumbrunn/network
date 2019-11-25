@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T13:28:57.435Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="JKp8O0Jf4Ye8p3fR7jZZ" version="12.3.0" type="github" pages="1">
+<mxfile modified="2019-11-25T13:29:31.255Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="iG2T4qFiuG4l1ok943J2" version="12.3.0" type="github" pages="1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1931" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U_3eeoUp6OMtoiEWqaUz-33" value="&lt;div&gt;ILZ OW/NW&lt;/div&gt;&lt;div&gt;Stefan Müller&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="477.5" y="744" width="120" height="80" as="geometry"/>
+          <mxGeometry x="491" y="749" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="U_3eeoUp6OMtoiEWqaUz-35" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="U_3eeoUp6OMtoiEWqaUz-33" target="U_3eeoUp6OMtoiEWqaUz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -182,7 +182,7 @@
           <mxGeometry x="867.5" y="554" width="150" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="n5c8j3IFLlKjBMmSP-40-16" value="&lt;div&gt;APP Consulting&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nadine Berchtold&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707.5" y="704" width="120" height="80" as="geometry"/>
+          <mxGeometry x="734" y="674" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="n5c8j3IFLlKjBMmSP-40-17" value="&lt;div&gt;Input Consulting&lt;/div&gt;&lt;div&gt;Patrick Berchtold&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="587.5" y="654" width="120" height="80" as="geometry"/>
@@ -214,7 +214,7 @@
             <mxPoint x="819.54" y="498" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yAKUKWo69UnJeg9u8PSo-9" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5c8j3IFLlKjBMmSP-40-17" target="n5c8j3IFLlKjBMmSP-40-16">
+        <mxCell id="yAKUKWo69UnJeg9u8PSo-9" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5c8j3IFLlKjBMmSP-40-17" target="n5c8j3IFLlKjBMmSP-40-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="377.5" y="634" as="sourcePoint"/>
             <mxPoint x="457.5" y="379" as="targetPoint"/>
@@ -272,13 +272,13 @@
           <mxGeometry x="916" y="724" width="113" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yAKUKWo69UnJeg9u8PSo-24" value="Consulting" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="762" y="774" width="92" height="20" as="geometry"/>
+          <mxGeometry x="758" y="744" width="92" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yAKUKWo69UnJeg9u8PSo-27" value="Consulting" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="724" width="92" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yAKUKWo69UnJeg9u8PSo-28" value="Government IT" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="528" y="814" width="106" height="20" as="geometry"/>
+          <mxGeometry x="541.5" y="819" width="106" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yAKUKWo69UnJeg9u8PSo-29" value="MedTech" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="704" width="106" height="20" as="geometry"/>
